@@ -1,5 +1,6 @@
 # nested_el-checkbox
 element-ui的el-checkbox实现嵌套多选，单选
+tips:chrome获取本地json数据时会产生跨域问题，建议用firefox直接打开
 
 主要功能：
 1. 实现多选框层级嵌套
