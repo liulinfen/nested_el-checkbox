@@ -1,0 +1,23 @@
+/* 单选框复选框 */
+.el-checkbox+.el-checkbox {
+  margin-left: 0px;
+}
+.el-checkbox {
+  margin-right: 25px;
+}
+.el-checkbox__input.is-checked .el-checkbox__inner, .el-checkbox__input.is-indeterminate .el-checkbox__inner{
+  background-color: #C79F5E !important;
+  border-color: #C79F5E !important;
+}
+.el-checkbox__inner:hover{
+  border-color: #C79F5E !important;
+}
+.el-checkbox__input.is-checked+.el-checkbox__label{
+  color: #C79F5E !important;
+}
+.el-checkbox+.el-checkbox {
+  margin-left: 0px;
+}
+.el-checkbox {
+  margin-right: 25px;
+}
